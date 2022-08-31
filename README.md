@@ -1,0 +1,1 @@
+# django-news_app
